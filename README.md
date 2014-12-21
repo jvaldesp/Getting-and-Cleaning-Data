@@ -4,7 +4,7 @@ Peer Reviewed Assessment
 
 Introduction
 
-  This repository contains the answer to the Peer reviewed assessment of the course "Getting and Cleanin Data"
+  This repository contains the answer to the Peer reviewed assessment of the course "Getting and Cleaning Data"
   
 The Script
 
@@ -14,12 +14,12 @@ The Script
     Extracts only the measurements on the mean and standard deviation for each measurement. 
     Uses descriptive activity names to name the activities in the data set
     Appropriately labels the data set with descriptive variable names. 
-    From the recently created data set, it creates a second, independent tidy data set with the average of each     variable for each activity and each subject.
+    From the recently created data set, it creates a second, independent tidy data set with the average of each Variable for each activity and each subject.
 
   Steps to work on this course project
 
     Download the data source and put into a folder on your local drive. You'll have a UCI HAR Dataset folder.
-    Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd()   function in RStudio.
+    Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your working directory using setwd() function in RStudio.
     Run source("run_analysis.R") and it will generate a new file tiny_data.txt in your working directory.
 
 Dependencies
